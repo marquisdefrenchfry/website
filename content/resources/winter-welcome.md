@@ -14,6 +14,7 @@ tags:
 - Jessica Anderson
 - Coco Liang
 - VyVy Ngo
+- Emilie Mangion
 - Onimisi Ayira
 - Syed Zain Basit
 - Daksh Malhotra
